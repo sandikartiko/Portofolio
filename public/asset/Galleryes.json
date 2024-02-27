@@ -1,0 +1,25 @@
+
+{
+    "futsal": [
+      {"id": 1, "name": "Futsal Image 1", "category": "futsal", "year": 2022, "file": "futsal_image_1.jpg"},
+      {"id": 2, "name": "Futsal Image 2", "category": "futsal", "year": 2022, "file": "futsal_image_2.jpg"}
+     
+    ],
+    "skripsi": [
+      {"id": 1, "name": "Other Image 1", "category": "other_category", "year": 2022, "file": "other_image_1.jpg"},
+      {"id": 2, "name": "Other Image 2", "category": "other_category", "year": 2022, "file": "other_image_2.jpg"}
+    
+    ],
+    "yudisium": [
+        {"id": 1, "name": "Other Image 1", "category": "other_category", "year": 2022, "file": "other_image_1.jpg"},
+        {"id": 2, "name": "Other Image 2", "category": "other_category", "year": 2022, "file": "other_image_2.jpg"}
+      
+      ],
+    "minisocer": [
+        {"id": 1, "name": "Other Image 1", "category": "other_category", "year": 2022, "file": "other_image_1.jpg"},
+        {"id": 2, "name": "Other Image 2", "category": "other_category", "year": 2022, "file": "other_image_2.jpg"}
+      
+      ]
+    
+  }
+  
